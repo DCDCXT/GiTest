@@ -25,7 +25,7 @@
     <input type="submit" value="注册">
     <input type="reset" value="清空">
     <input type="button" value="普通按钮">
-    12
+    123
   </form>
 
   </body>
